@@ -1,4 +1,4 @@
-import { slots } from "../components/s-game/slots-game"
+import { slots } from "./s-game/slots-game"
 
 
 slots()

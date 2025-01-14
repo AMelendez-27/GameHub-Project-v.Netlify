@@ -1,4 +1,4 @@
-import { rockPaperScissors } from "../components/rps-game/rockPaperScissors"
+import { rockPaperScissors } from "./rps-game/rockPaperScissors"
 
 
 rockPaperScissors()
