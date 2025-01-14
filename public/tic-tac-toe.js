@@ -1,4 +1,4 @@
-import { ticTacToe } from "/components/ttt-game/ticTacToe"
+import { ticTacToe } from "../components/ttt-game/ticTacToe"
 
 
 ticTacToe()
