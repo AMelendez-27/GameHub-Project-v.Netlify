@@ -41,7 +41,7 @@ export const addGame = (gameName, gameDescription) => {
 
   const playButton = document.createElement('a')
   playButton.className = 'game play-button'
-  playButton.href = `/src/${gameNameHyphen}/${gameNameHyphen}.html`
+  playButton.href = `/${gameNameHyphen}.html`
   playButton.textContent = 'TRY GAME'
 
   gameBox.appendChild(gameImg)
