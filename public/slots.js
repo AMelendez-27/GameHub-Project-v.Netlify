@@ -1,4 +1,4 @@
-import { slots } from "/slots-game"
+import { slots } from "/public/slots-game"
 
 
 slots()
