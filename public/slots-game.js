@@ -1,4 +1,4 @@
-import "./slots.css"
+import "./slots-game.css"
 
 export const slots = () => {
     // Slot Machine Game
