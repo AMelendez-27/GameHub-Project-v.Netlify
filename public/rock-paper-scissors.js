@@ -1,4 +1,4 @@
-import { rockPaperScissors } from "/public/rockPaperScissors.js"
+import { rockPaperScissors } from "/components/rockPaperScissors.js"
 
 
 rockPaperScissors()
