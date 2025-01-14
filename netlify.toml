@@ -1,9 +1,4 @@
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
-
-[[redirects]]
 from = "/slots.html"
 to = "/slots"
 status = 200
