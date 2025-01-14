@@ -1,4 +1,4 @@
-import { rockPaperScissors } from "/rockPaperScissors"
+import { rockPaperScissors } from "/public/rockPaperScissors"
 
 
 rockPaperScissors()

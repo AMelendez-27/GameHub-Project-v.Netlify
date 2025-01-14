@@ -1,4 +1,4 @@
-import { ticTacToe } from "/ticTacToe"
+import { ticTacToe } from "/public/ticTacToe"
 
 
 ticTacToe()
