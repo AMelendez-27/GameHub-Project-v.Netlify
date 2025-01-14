@@ -4,6 +4,6 @@ to = "/index.html"
 status = 200
 
 [[redirects]]
-from = "/slots"
-to = "/slots.html"
+from = "/slots.html"
+to = "/slots"
 status = 200
