@@ -1,4 +1,4 @@
-import { slots } from "/slots-game/slots-game"
+import { slots } from "/slots-game"
 
 
 slots()

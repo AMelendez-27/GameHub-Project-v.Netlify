@@ -1,4 +1,4 @@
-import { ticTacToe } from "/ttt-game/ticTacToe"
+import { ticTacToe } from "/ticTacToe"
 
 
 ticTacToe()
