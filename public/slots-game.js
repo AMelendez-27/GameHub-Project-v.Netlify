@@ -19,7 +19,7 @@ export const slots = () => {
     // Generate random combinations for slots
     function generateRandomCombinations() {
         const combinations = []
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 20; i++) {
             combinations.push(emojis[Math.floor(Math.random() * emojis.length)])
         }
         return combinations
@@ -53,7 +53,7 @@ export const slots = () => {
                             checkResult(finalEmojis)
                         }
                     }
-                }, 300)
+                }, 100)
             }, index * 200) // Delay for each slot
         })
     }
