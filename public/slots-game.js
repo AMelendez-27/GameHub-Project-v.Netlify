@@ -54,7 +54,7 @@ export const slots = () => {
                         }
                     }
                 }, 100)
-            }, index * 200) // Delay for each slot
+            }, index * 400) // Delay for each slot
         })
     }
 
