@@ -1,5 +1,3 @@
-import "./ticTacToe.css"
-
 export const ticTacToe = () => {
     // Tic Tac Toe Game
     let victories = 0 // Variable to store the number of wins

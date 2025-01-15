@@ -1,4 +1,4 @@
-import { ticTacToe } from "/public/ticTacToe"
+import { ticTacToe } from "/ticTacToe.js"
 
 
 ticTacToe()

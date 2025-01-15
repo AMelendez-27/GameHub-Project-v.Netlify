@@ -1,5 +1,3 @@
-import "./rockPaperScissors.css"
-
 export const rockPaperScissors = () => {
     let victories = 0
     let intervalId = null // Store interval ID for stopping the emoji cycling
